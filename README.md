@@ -436,7 +436,7 @@ Potential future improvements include:
 
 # 👨‍💻 Author
 
-**Habeeb**
+**Habeeb Nadendla**
 
 - GitHub: https://github.com/Habeeb932
 - Project Repository: https://github.com/Habeeb932/Hybrid-movie-recommendation-system
